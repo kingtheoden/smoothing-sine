@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# Author: William Dixon
+# Version: 1.0.0
 import math
 
 def getNextSmoothedGuess(oldGuess, newSample, alpha):
